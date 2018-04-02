@@ -1,10 +1,5 @@
 {
-  "composer": "homebrew/core",
-  "php-code-sniffer": "homebrew/core",
-  "php-cs-fixer": "homebrew/core",
-  "php56": "homebrew/core",
-  "php71": "homebrew/core",
-  "php72": "homebrew/core",
-  "phpunit": "homebrew/core",
-  "wp-cli": "homebrew/core"
+  "phpenv": "homebrew/boneyard",
+  "phpsh": "homebrew/boneyard",
+  "php72": "homebrew/core"
 }
